@@ -1,2 +1,3 @@
 mnist/dataset/MNIST/raw/*.gz
 mnist/dataset/MNIST/processed/*.pt
+bengaliAI-cv19/input/
